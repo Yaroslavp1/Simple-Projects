@@ -1,6 +1,3 @@
-# Simple-Projects
-Personal Projects, Cleaning data, learning ML
-
 
 For the Simple LinReg file, 
 
